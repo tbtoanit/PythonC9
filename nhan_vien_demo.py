@@ -1,4 +1,5 @@
 #Long test sua nhanviendemo
+#pa sua file
 
 class Nhan_Vien():
     #tạo những thông tin về thuộc tính/ properties

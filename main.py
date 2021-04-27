@@ -1,6 +1,6 @@
 #Toi muon sua source code
 # from tkinter import *
-#
+# Duy moi sua
 # window = Tk()
 # window1 = Tk()
 #

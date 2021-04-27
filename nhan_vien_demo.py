@@ -1,3 +1,5 @@
+#Long test sua nhanviendemo
+
 class Nhan_Vien():
     #tạo những thông tin về thuộc tính/ properties
     ma_nhan_vien = ""
